@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->120fps freefire 
-auto headshot aimlock head 
+auto headshot 99%
+aimlock 99% 
+freefire headshot 99%
+no lag
+no hang 
+-
