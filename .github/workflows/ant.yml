@@ -9,7 +9,7 @@ getheadcordinates{head}
     branches: [ "feature_autoheadshot_bug_aim_issue" ]
   pull_request:[ "autoheadshot_feature" ]
     branches: [ "autoheadshotfreefire_120fpsgameplay" ]
-
+    uses :("autoheadshot+deserteagle+shortguns+longrangeguns+woodpicker+xm8+smg_guns+ump+mp40")
 jobs:"autoheadshot_task"
   build:"webpack --mode-production"
 
